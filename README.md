@@ -1,6 +1,17 @@
 First video game project, is like a roguelike but with the chess game
 
+
+
+## **plan**
+### Introduction
+### Gameplay
+### Rules
+### 
+
 Game Designer : Arthur Urbano
+
 Developer : Quentin Gallet, Axel Clivet
+
 Artist: Lana Haartman
-Sound maker: Lucas Rivet
+
+Sound maker: Lasagne eco+
