@@ -12,6 +12,6 @@ Game Designer : Arthur Urbano
 
 Developer : Quentin Gallet, Axel Clivet
 
-Artist: Lana Haartman
+Artist: Lana Hartmann
 
-Sound maker: Lasagne eco+
+Sound maker: Le frer de l'autre
